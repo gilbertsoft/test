@@ -1,12 +1,15 @@
 # test
 GitHub testing purposes only
 
+
+
 # Want
 WANT is a Delphi-friendly build tool. See the file:
 
   [doc/index.html](doc/index.html)
 
 for more information about WANT.
+
 
 ## EXECUTING WANT
 
