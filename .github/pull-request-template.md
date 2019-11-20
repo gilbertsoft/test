@@ -1,6 +1,10 @@
 # Pull Request
 
-Fixes #
+## Related Issues
+
+- Closes #
+- Fixes # [bug]
+- Resolves # [feature/question]
 
 ## Prerequisites
 
