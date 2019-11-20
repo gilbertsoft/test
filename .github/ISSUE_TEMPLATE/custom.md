@@ -1,10 +1,18 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: "[HELP]"
+name: "⛑ Support"
+about: Ask the community for help.
+title: ''
 labels: question
-assignees: gilbertsoft
+assignees: ''
 
 ---
 
-**Is your question related to a problem? Please describe.**
+# Support
+
+## Description
+
+[Is your question related to a problem? Please describe.]
+
+## Screenshots
+
+[If applicable, add screenshots to help explain your problem.]
