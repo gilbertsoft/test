@@ -1,11 +1,13 @@
 ---
-name: "\U0001F41E Bug report"
+name: "\U0001F41E Bug Report"
 about: Tell us about a bug you may have identified.
 title: ''
 labels: bug
 assignees: ''
 
 ---
+
+# Bug Report
 
 ## Prerequisites
 
@@ -16,7 +18,7 @@ assignees: ''
 
 ## Description
 
-[Description of the bug or feature]
+[A clear and concise description of what the bug is.]
 
 ## Steps to Reproduce
 
@@ -24,10 +26,20 @@ assignees: ''
 2. [Second Step]
 3. [and so on...]
 
-**Expected behavior:** [What you expected to happen]
+### Expected behavior
 
-**Actual behavior:** [What actually happened]
+[What you expected to happen]
+
+### Actual behavior
+
+[What actually happened]
+
+### Screenshots
+
+[If applicable, add screenshots to help explain your problem.]
 
 ## Versions
 
-You can get this information from executing `composer show` at the command line if your TYPO3 installation is composer based, otherwise the version number will be shown in the extension manager.
+You can get this information from executing `composer show` at the command line
+if your TYPO3 installation is composer based, otherwise the version number will
+be shown in the extension manager.
